@@ -51,8 +51,8 @@ Conteúdos praticados 📁
 [x] [Aula 3] Implementando segurança nos dados do usuário
 
     *  Aspectos de segurança e estruturação para garantir um acesso seguro a sua aplicação.
-    *  Aspectos de segurança e estruturação para garantir um acesso seguro a sua aplicação.
-    *  Aspectos de segurança e estruturação para garantir um acesso seguro a sua aplicação.
+    *  Lorem
+    *  Lorem
 
 <br>
 
@@ -88,7 +88,7 @@ Conteúdos praticados 📁
 
    Faça um clone do repositório para seu PC:
 
-   `git clone https://github.com/anaisateodoro/to-do-list`
+   `git clone https://github.com/anaisateodoro/todolist`
 
    Edite e modifique a sua maneira 😽;
 
@@ -108,10 +108,12 @@ Conteúdos praticados 📁
    
 
 ### Tecnologias:
-<br>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" /> <img src="https://user-images.githubusercontent.com/110836621/190701017-85e7b3f4-1f04-4315-8277-95421bdc203c.png" width="40" height="40" />
 
- <br>
+<br>
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" /> <img src="https://user-images.githubusercontent.com/110836621/190701017-85e7b3f4-1f04-4315-8277-95421bdc203c.png" width="40" height="40"/>
+
+<br>
 
  ### Como contribuir 🙆‍♀️
 
@@ -136,4 +138,4 @@ Conteúdos praticados 📁
 </div>
 
 
-# todolist
+
