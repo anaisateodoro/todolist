@@ -23,7 +23,7 @@ To-do List 🚀
 
 <br>
 
-![Captura de ecrã de 2023-10-10 00-58-43](https://github.com/anaisateodoro/to-do-list/assets/70113922/ae8cfaee-ae98-4094-a1de-bc15349f4d58)
+![aula02](https://github.com/anaisateodoro/todolist/assets/70113922/259635b9-d922-49ff-adab-74631c2da245)
 
 <br>
 
