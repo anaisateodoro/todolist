@@ -80,8 +80,8 @@
 
 <br>
 
-    - [Pré-Requisitos](#pre-requisitos): 🔍 Java 17, Maven, VSCode, Rest Client;
-    - [Testes](#testes): Postman.
+    - Pré-Requisitos: 🔍 Java 17, Maven, VSCode, Rest Client.
+    - Testes: Postman.
    
 
 
