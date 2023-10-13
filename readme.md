@@ -7,7 +7,8 @@
 
 <br>
 
-Descrição do projeto  💻
+### Descrição do projeto  💻
+
 
 
 <p>Aprendizado no desenvolvimento de aplicação web do To-do List em Java com a mentoria de 💝 Daniele Leão.</p> 
@@ -15,7 +16,7 @@ Descrição do projeto  💻
 
 <br>
 
-To-do List 🚀
+### To-do List 🚀
 
 * Semana do Curso Online de Java da [Rocketseat](https://www.rocketseat.com.br/curso-gratuito-java).
 * Praticando meus conhecimentos em requisições HTTP com a criação de uma aplicação web To-do List. 
@@ -27,7 +28,7 @@ To-do List 🚀
 
 <br>
 
-Conteúdos praticados 📁
+### Conteúdos praticados 📁
 
 - Aula 1 - Construção back-end de uma aplicação de To-Do List
 
@@ -79,7 +80,14 @@ Conteúdos praticados 📁
 
 <br>
 
-   * [Instalação](#instalacao) 
+    - [Pré-Requisitos](#pre-requisitos): 🔍 Java 17, Maven, VSCode, Rest Client;
+    - [Testes](#testes): Postman.
+   
+
+
+<br>
+
+   ### Instalação
 
    Faça um clone do repositório para seu PC:
 
@@ -94,13 +102,8 @@ Conteúdos praticados 📁
    🛠️ A aplicação estará disponível na port 
    `8080`
 
+
 <br>
-
-   * [Como usar](#como-usar) 
-
-      * [Pré-Requisitos](#pre-requisitos): 🔍 Java 17, Maven, VSCode, Rest Client;
-      * [Testes](#testes): Postman.
-   
 
 ### Tecnologias:
 
