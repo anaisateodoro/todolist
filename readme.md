@@ -29,7 +29,7 @@ To-do List 🚀
 
 Conteúdos praticados 📁
 
-[x]  Aula 1 - Construção back-end de uma aplicação de To-Do List
+- Aula 1 - Construção back-end de uma aplicação de To-Do List
 
     *  Qual a função principal do Maven no desenvolvimento da aplicação do projeto;
 	*  Gerenciar dependências e fazer o tal build;
@@ -38,7 +38,7 @@ Conteúdos praticados 📁
 
 <br>
 
-[x] [Aula 2] Integração com o Banco de Dados
+- Aula 2 - Integração com o Banco de Dados
 
     *  Ao definir um atributo de uma classe como "private", ele só pode ser acessado pela própria classe e, é necessário usar métodos públicos na classe que retornam ou modificam tal atributo.
     * Os métodos "getters" e "setters" em Java são usados para recuperar e definir valores de atributos de uma classe, respectivamente.
@@ -48,39 +48,34 @@ Conteúdos praticados 📁
 
 <br>
 
-[x] [Aula 3] Implementando segurança nos dados do usuário
+- Aula 3 - Implementando segurança nos dados do usuário
 
     *  Aspectos de segurança e estruturação para garantir um acesso seguro a sua aplicação.
-    *  Lorem
-    *  Lorem
+    *  Utilização da biblioteca Bcrypt na aplicação.
+    *  Método doFilter.
+    *  Header HTTP.
 
 <br>
 
-- [x] [Aula 4] Lorem Lorem Lorem Lorem Lorem Lorem
+- Aula 4 - Atualizando tarefas e validação de rotas
 
-    * Lorem
-    * Lorem
-    * Lorem 
-    * Lorem 
-    * Lorem
-    * Lorem
-
+    * O servlet path deve ser igual a /tasks.
+    * Finalidade de utilizar o método setAttribute no contexto do filtro e do controlador na aplicação. 
+    * Utilização do método findByIdUser no repositório de tarefas, passando o ID do usuário como parâmetro.
+    * O ID da tarefa é passado como um parâmetro de caminho (path variable) na URL.
 <br>
 
--  [x] [Aula 5] Lorem Lorem Lorem Lorem Lorem Lorem
+- Aula 5 - Deploy do Back-End
 
-    * Lorem
-    * Lorems 
-    * Lorem 
-    * Lorem
-    * Lorem 
-    * Lorem
-
-
+    * Usando a validação do ID do usuário no método de atualização de tarefas.
+    * Implementação de um tratamento global de exceções usando @ControllerAdvice para mensagens de erro específicas.
+    * Uso do Spring DevTools melhora a experiência de desenvolvimento. 
+    * Criado um arquivo Dockerfile para utilizar o Render.com
+    * Definição das configurações do projeto e criar uma imagem Docker da aplicação.
+    
 <br>
 
 ### Como usar o ToDoList? 💻
-
 
 <br>
 
@@ -104,7 +99,7 @@ Conteúdos praticados 📁
    * [Como usar](#como-usar) 
 
       * [Pré-Requisitos](#pre-requisitos): 🔍 Java 17, Maven, VSCode, Rest Client;
-      * [Testes](#testes): Postman,
+      * [Testes](#testes): Postman.
    
 
 ### Tecnologias:
@@ -133,7 +128,7 @@ Conteúdos praticados 📁
 
 <div style="text-align: center;">
 
- 🔗 Praticado com ♥ por [Anaísa Mayara Teodoro](https://github.com/anaisateodoro) com a mentoria de [Daniele Leão](https://github.com/danileao)  ♥ 
+ 🔗 Praticado com ♥ por [Anaísa Mayara Teodoro](https://github.com/anaisateodoro) com a mentoria de [Daniele Leão](https://github.com/danileao)  ♥ .
 
 </div>
 
