@@ -52,7 +52,7 @@
 - Aula 3 - Implementando segurança nos dados do usuário
 
     *  Aspectos de segurança e estruturação para garantir um acesso seguro a sua aplicação.
-    *  Utilização da biblioteca Bcrypt na aplicação.
+    *  Utilização da biblioteca [Bcrypt](https://github.com/patrickfav/bcrypt) na aplicação.
     *  Método doFilter.
     *  Header HTTP.
 
